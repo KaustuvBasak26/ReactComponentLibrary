@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "link-and-publish-component": "^1.0.0",
+    "link-and-publish-component": "^2.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "0.9.5"

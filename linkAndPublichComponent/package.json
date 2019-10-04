@@ -1,6 +1,6 @@
 {
   "name": "link-and-publish-component",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Basic react app developed from scratch using webpack and babel and used using link and published using npm publish",
   "main": "index.js",
   "scripts": {
