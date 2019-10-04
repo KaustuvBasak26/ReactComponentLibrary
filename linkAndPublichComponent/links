@@ -1,0 +1,16 @@
+Publishing: https://medium.com/@BrodaNoel/how-to-create-a-react-component-and-publish-it-in-npm-668ad7d363ce
+Bare Webpack project :
+https://scotch.io/tutorials/setup-a-react-environment-using-webpack-and-babel
+
+babel version problems : npm install babel-loader@7 babel-core
+webpack-dev-server requires: npm install --dev --save webpack-cli
+
+https://github.com/bmhaskar/distribution-via-github-package-registry
+
+path methods : https://nodejs.org/api/path.html
+
+Publishing react components: https://itnext.io/create-and-publish-a-react-component-library-the-easy-way-6d1798974bc6
+
+Publishing to npm repo: https://jasonwatmore.com/post/2018/04/14/react-npm-how-to-publish-a-react-component-to-npm
+
+Webpack config of create-react-app: https://medium.com/@ryoldash/customize-webpack-config-of-react-app-created-with-create-react-app-7a78c7849edc
